@@ -1,15 +1,15 @@
-# rust プロジェクトの作成
+### rust プロジェクトの作成
 ```
 % cargo new sample01
 % cd sample01
 ```
 
-# ビルド
+### ビルド
 ```
 % cargo build
 ```
 
-# 実行
+### 実行
 ```
 % cargo run
 ```
