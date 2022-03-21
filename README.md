@@ -1,3 +1,6 @@
+## tour of rust
+https://tourofrust.com/00_ja.html
+
 ### rust プロジェクトの作成
 ```
 % cargo new sample01
